@@ -25,7 +25,7 @@ Model Waveform
 
 image
 Program
-
+```asm
 import numpy as np
 import matplotlib.pyplot as plt
 Am =5    
@@ -47,7 +47,7 @@ plt.subplot(3, 1, 3)
 plt.plot(t, s)
 plt.tight_layout()
 plt.show()
-
+```
 Output:
 <img width="630" height="469" alt="image" src="https://github.com/user-attachments/assets/037a04cb-22e1-471a-b2d0-7d92c4a21f3f" />
 
