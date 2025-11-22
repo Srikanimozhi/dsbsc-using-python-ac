@@ -52,10 +52,9 @@ Output:
 <img width="630" height="469" alt="image" src="https://github.com/user-attachments/assets/037a04cb-22e1-471a-b2d0-7d92c4a21f3f" />
 
 calculation:
-![WhatsApp Image 2025-10-23 at 23 22 12_8ab44c2d](https://github.com/user-attachments/assets/31a80bc9-a9fd-497d-93b1-674b9e9b4884)
 
+![WhatsApp Image 2025-11-22 at 12 43 05_5dc40d12](https://github.com/user-attachments/assets/97946254-2359-4d71-882c-79acd9a93c72)
 
 Result:
-
 
 Thus the DSB-SC-AM Modulation and Demodulation using python is generated.
